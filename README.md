@@ -42,7 +42,7 @@ Le projet Messagerie est une application web qui permet de gérer un système de
 ## **Structure du Projet**
 
 ```
-dcp/
+messagerie/
 ├── index.html          # Page d'accueil
 ├── styles.css          # Fichier CSS pour les styles
 └── script.js           # Fichier JavaScript pour la logique du projet

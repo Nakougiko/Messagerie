@@ -31,3 +31,20 @@ button, h1{
 }
 */
 
+.texte {
+    border-radius: 5px;
+    padding: 10px;
+    margin: 2px;
+}
+
+.droite {
+    border: 1px solid #00FF00;
+    background-color: #AAFFAA;
+    margin-left: 100px;    
+}
+
+.gauche {
+    border: 1px solid #0000FF;
+    background-color: #AAAAFF;
+    margin-right: 100px;
+}

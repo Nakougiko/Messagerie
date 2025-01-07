@@ -21,3 +21,13 @@ body {
 button, h1{
     margin: 10px auto;
 }
+
+/*
+#clavier {
+    resize: vertical;
+    overflow: auto;
+    width: 50%;
+    min-width: 400px;
+}
+*/
+
